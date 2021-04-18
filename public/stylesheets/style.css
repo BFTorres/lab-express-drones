@@ -1,8 +1,44 @@
 body {
+  background-color: rgb(0, 0, 0);
   padding: 50px;
   font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+  
+}
+
+.card-text {
+  color: black;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #8d0d0d;
+  border-color: #250404;
+}
+
+.nav-link {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
 }
 
 a {
-  color: #00b7ff;
+  color: #ffffff;
+}
+
+.container-fluid {
+  font-size: 20px;
+}
+
+.mb-3 {
+  color: white;
 }
